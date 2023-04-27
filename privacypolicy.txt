@@ -1,0 +1,15 @@
+We take your privacy very seriously. Here's our privacy policy:
+
+Privacy Policy
+
+Overview
+This Privacy Policy describes how your personal information is handled in Capitalism Cards.
+We Collect No Personal Information Using Our Applications
+We do not collect, use, save, or have access to any of your personal data recorded in Capitalism Cards.
+Individual settings relating to the Capitalism Cards apps are not personalized and are stored only on your device along with a generated identifier that is used solely for functional purposes and is randomly generate. We don’t process any personal information at all and have no access to it.
+
+App Analytics
+To help us better understand how people use our apps and to continue improving them, we use analytics information provided by App Store Connect and TestFlight. These services provide us with some generic usage and other statistics that are completely anonymous and cannot personally identify you in any way.
+
+Contact Us
+If you have any questions about this Privacy Policy, feel free to get in touch with us.
